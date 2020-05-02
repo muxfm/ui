@@ -1,0 +1,29 @@
+{
+   "name": "@bulwarkfm/ui",
+   "version": "1.0.0",
+   "description": "UI components for Bulwark feed",
+   "main": "index.js",
+   "scripts": {
+      "dev": "yarn tsc",
+      "test": "jest"
+   },
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/bulwarkfm/ui.git"
+   },
+   "keywords": [
+      "bulwark",
+      "podcast",
+      "anchor",
+      "fm"
+   ],
+   "author": "Shivek Khurana",
+   "license": "MIT",
+   "bugs": {
+      "url": "https://github.com/bulwarkfm/ui/issues"
+   },
+   "homepage": "https://github.com/bulwarkfm/ui#readme",
+   "devDependencies": {
+      "typescript": "^3.8.3"
+   }
+}
